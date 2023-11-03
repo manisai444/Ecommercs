@@ -1,0 +1,30 @@
+img{
+    ;
+    object-fit: contain;
+    width: 200px;
+    height: 400px;
+    
+}
+
+.flex-parent{
+    margin: 20px;
+    border: 20px;
+background-color: blue;
+
+    flex-wrap: wrap;
+display: flex;
+gap: 100px;
+
+
+
+}
+body{
+    flex-direction: column;
+    text-align: center;
+    display: flex;
+}
+h2{
+    color: rgb(250, 5, 5);
+}
+
+        
